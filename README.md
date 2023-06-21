@@ -1,4 +1,4 @@
-# Pierre DeCheck - A Pull-Request Dependency Checker
+# Pierre DeCheck - A Pull-Request Dependency Checker for the project
 
 [![CircleCI](https://circleci.com/gh/alvarocavalcanti/pierre-decheck/tree/master.svg?style=svg)](https://circleci.com/gh/alvarocavalcanti/pierre-decheck/tree/master)
 
